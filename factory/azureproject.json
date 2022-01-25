@@ -1,0 +1,9 @@
+{
+	"name": "azureproject",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "71ff4320-9fe7-4280-81e4-f8a2d56e23e1",
+		"tenantId": "bee1a934-b371-4b22-b1ed-d01399d07dda"
+	}
+}
